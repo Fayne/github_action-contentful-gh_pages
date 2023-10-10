@@ -5,7 +5,7 @@ name: Build on Contentful Publish Event
 # Controls when the workflow will run
 on:
 	repository_dispatch:
-    types: [publish-event]
+    		types: [publish-event]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
