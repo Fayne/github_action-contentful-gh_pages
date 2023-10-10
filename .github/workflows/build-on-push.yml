@@ -1,8 +1,8 @@
 name: Build on Push
 on:
   push:
-	branches:
-  	- master
+    branches:
+      - master
 
 jobs:
   deploy:
