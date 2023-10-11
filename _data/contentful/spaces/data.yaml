@@ -1,0 +1,204 @@
+---
+productComponent:
+- sys:
+    id: 73X5jIMzER1aJSwIuLnYDD
+    created_at: !ruby/object:DateTime 2021-06-17 06:25:17.839000000 Z
+    updated_at: !ruby/object:DateTime 2021-06-17 06:25:17.839000000 Z
+    content_type_id: productComponent
+    revision: 1
+  internal_name: Test 1
+  product_list:
+    items:
+    - product1
+    - product2
+product:
+- sys:
+    id: 56LSvUcM5FE5XewIElEQBw
+    created_at: !ruby/object:DateTime 2023-02-06 08:16:06.020000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-10 07:07:43.345000000 Z
+    content_type_id: product
+    revision: 2
+  name: aaa
+  csku: test
+  preview:
+    updated_at: '2022-02-16 18:16:05'
+    data:
+      csku: test
+      name: Qui dolore ad
+      brand: Dolores molestiae
+      price: 1774
+      stock: 95023018
+      pic: https://via.placeholder.com/640x480.png/0000dd?text=ut
+      styleId: 392006
+      colors:
+      - id: '14281150'
+        hex: "#A05050"
+        csku: '14281150'
+        rsku: '129098'
+      - id: '14281100'
+        hex: "#C3002F"
+        csku: '14281100'
+        rsku: '128710'
+      - id: '14281134'
+        hex: "#D05A56"
+        csku: '14281134'
+        rsku: '110668'
+      - id: '14281177'
+        hex: "#A4514E"
+        csku: '14281177'
+        rsku: '3647575'
+      - id: '14281185'
+        hex: "#C67F71"
+        csku: '14281185'
+        rsku: '128314'
+      - id: '14281207'
+        hex: "#A44055"
+        csku: '14281207'
+        rsku: '128157'
+      - id: '14281215'
+        hex: "#9F4F51"
+        csku: '14281215'
+        rsku: '129130'
+      - id: '14281223'
+        hex: "#D58489"
+        csku: '14281223'
+        rsku: '1121920'
+- sys:
+    id: 2l09XDsIHSjdCLqsjbTaQc
+    created_at: !ruby/object:DateTime 2023-10-10 07:43:55.790000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-10 16:25:39.026000000 Z
+    content_type_id: product
+    revision: 8
+  name: https://baidu.com
+  csku: aaaddcc
+  preview:
+    data:
+      pic: https://via.placeholder.com/640x480.png/007700?text=itaque
+      csku: bbbacacfa
+      name: Accusamus possimus omnis quis
+      brand: Minima ipsam itaque
+      price: 730566478
+      stock: 362460088
+      colors:
+      - id: '14281150'
+        hex: "#A05050"
+        csku: '14281150'
+        rsku: '129098'
+      - id: '14281100'
+        hex: "#C3002F"
+        csku: '14281100'
+        rsku: '128710'
+      - id: '14281134'
+        hex: "#D05A56"
+        csku: '14281134'
+        rsku: '110668'
+      - id: '14281177'
+        hex: "#A4514E"
+        csku: '14281177'
+        rsku: '3647575'
+      - id: '14281185'
+        hex: "#C67F71"
+        csku: '14281185'
+        rsku: '128314'
+      - id: '14281207'
+        hex: "#A44055"
+        csku: '14281207'
+        rsku: '128157'
+      - id: '14281215'
+        hex: "#9F4F51"
+        csku: '14281215'
+        rsku: '129130'
+      - id: '14281223'
+        hex: "#D58489"
+        csku: '14281223'
+        rsku: '1121920'
+      styleId: 417107
+    updated_at: '2022-02-13 12:38:11'
+- sys:
+    id: 7EUl8Uxd9GbkrfeajfkNgO
+    created_at: !ruby/object:DateTime 2023-10-11 14:49:24.421000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 14:49:24.421000000 Z
+    content_type_id: product
+    revision: 1
+  name: test1
+  csku: cab
+- sys:
+    id: 35Gxaa3PGqjq3OI77CdEx5
+    created_at: !ruby/object:DateTime 2023-10-11 14:57:37.141000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 14:57:37.141000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11
+  csku: cab
+- sys:
+    id: 3Tl87U1VDwAILxMFZddlt
+    created_at: !ruby/object:DateTime 2023-10-11 15:04:47.183000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:04:47.183000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (1)
+  csku: cab
+- sys:
+    id: 1vkMcKwLsgYDvKWfOUzbYG
+    created_at: !ruby/object:DateTime 2023-10-11 15:17:34.781000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:17:34.781000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (2)
+  csku: cab
+- sys:
+    id: 4zhbFsEfUXywntdxwiVdEO
+    created_at: !ruby/object:DateTime 2023-10-11 15:22:39.150000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:22:39.150000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (3)
+  csku: cab
+- sys:
+    id: 688OGWKOduRXbzBS53ldza
+    created_at: !ruby/object:DateTime 2023-10-11 15:29:40.120000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:29:40.120000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (4)
+  csku: cab
+- sys:
+    id: 2CSDz47KKB8jGYinhTo2dh
+    created_at: !ruby/object:DateTime 2023-10-11 15:31:14.942000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:31:14.942000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (5)
+  csku: cab
+- sys:
+    id: 26thhIizeZGk7bj60YUPV5
+    created_at: !ruby/object:DateTime 2023-10-11 15:32:12.862000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:32:12.862000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (6)
+  csku: cab
+- sys:
+    id: 1ZwtwTb8k3rxNxpB2613vn
+    created_at: !ruby/object:DateTime 2023-10-11 15:33:26.651000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:33:26.651000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (7)
+  csku: cab
+- sys:
+    id: 6TGcgKyfeIWzxBdGXRx7qk
+    created_at: !ruby/object:DateTime 2023-10-11 15:39:48.726000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:39:48.726000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (8)
+  csku: cab
+- sys:
+    id: 1H74a5b1iQyKt0RR0pJnk5
+    created_at: !ruby/object:DateTime 2023-10-11 15:45:40.313000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:45:40.313000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (9)
+  csku: cab
