@@ -1,0 +1,15 @@
+contentful:
+  spaces:
+    - data:                              # Jekyll _data folder identifier - Required
+        space: aox5fl0ilo9l                 # Required
+        access_token: RYMcg4FTqh_PAVZ9OvC8k2r99Jv4NmpBOtgDA6b_eWE          # Required
+        environment: master                 # Optional
+        cda_query:                          # Optional
+          include: 2
+          limit: 100
+        all_entries: true                   # Optional - Defaults to false, only grabbing the amount set on CDA Query
+        all_entries_page_size: 1000         # Optional - Defaults to 1000, maximum amount of entries per CDA Request for all_entries
+        client_options:                     # Optional
+          api_url: 'cdn.contentful.com' # Defaults to 'api.contentful.com' which is Production
+          max_include_resolution_depth: 5   # Optional - Defaults to 20, maximum amount of levels to resolve includes
+        
