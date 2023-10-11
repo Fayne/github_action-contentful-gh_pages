@@ -202,3 +202,11 @@ product:
     revision: 1
   name: test11 (9)
   csku: cab
+- sys:
+    id: 19L4HDptS4bRop1JWoFMss
+    created_at: !ruby/object:DateTime 2023-10-11 15:49:20.751000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-11 15:49:20.751000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (10)
+  csku: cab
