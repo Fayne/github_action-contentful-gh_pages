@@ -30,9 +30,11 @@ jobs:
         run: bundle exec jekyll contentful
         
       # Deployment
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site
+      - name: Commit contents updating
+        run: |
+          git config --global user.name "Fayne Guo"
+          git config --global user.email "fayne.guo@gmail.com"
+          git add .
+          git commit -m ":+1: Update contents"
+          git push origin master
+      
