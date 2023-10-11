@@ -31,12 +31,12 @@ jobs:
         
       # Deployment
       - name: Commit contents updating
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Fayne Guo"
           git config --global user.email "fayne.guo@gmail.com"
           git add .
           git commit -m ":+1: Update contents"
           git push origin master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       
