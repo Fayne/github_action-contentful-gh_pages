@@ -1,4 +1,18 @@
 ---
+blog:
+- sys:
+    id: 2Uh998lKmFSx9CVZhfrI0b
+    created_at: !ruby/object:DateTime 2021-05-29 11:16:28.641000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 08:56:40.743000000 Z
+    content_type_id: blog
+    revision: 2
+  title: test
+  body: test
+  taggings:
+  - Hello
+  - World
+  test_base_value: test-adsfsdf
+  test: test-adsfsdf
 productComponent:
 - sys:
     id: 73X5jIMzER1aJSwIuLnYDD
