@@ -195,11 +195,25 @@ product:
 - sys:
     id: 1ZwtwTb8k3rxNxpB2613vn
     created_at: !ruby/object:DateTime 2023-10-11 15:33:26.651000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-11 15:33:26.651000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 09:02:15.020000000 Z
     content_type_id: product
-    revision: 1
+    revision: 2
   name: test11 (7)
   csku: cab
+  blog:
+    sys:
+      id: 2Uh998lKmFSx9CVZhfrI0b
+      created_at: !ruby/object:DateTime 2021-05-29 11:16:28.641000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-12 08:56:40.743000000 Z
+      content_type_id: blog
+      revision: 2
+    title: test
+    body: test
+    taggings:
+    - Hello
+    - World
+    test_base_value: test-adsfsdf
+    test: test-adsfsdf
 - sys:
     id: 6TGcgKyfeIWzxBdGXRx7qk
     created_at: !ruby/object:DateTime 2023-10-11 15:39:48.726000000 Z
