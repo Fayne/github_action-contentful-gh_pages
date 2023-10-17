@@ -34,8 +34,9 @@ jobs:
       # Deployment
       - name: Commit contents updating
         run: |
-          git config --global user.name "Fayne Guo"
-          git config --global user.email "fayne.guo@gmail.com"
+          git config --global user.name "Contentful"
+          git config --global user.email "contentful@gmail.com"
           git add _data
           git commit -m ":+1: Update contents"
+          git fetch origin
           git push origin master
