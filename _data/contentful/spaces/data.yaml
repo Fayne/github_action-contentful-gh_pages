@@ -300,7 +300,7 @@ client:
     format: png
     height: 150
     version: 1697123252
-    duration:
+    duration: 
     metadata: {}
     public_id: mn/sephora
     created_at: '2023-10-12T15:07:32Z'
@@ -326,7 +326,7 @@ client:
     format: png
     height: 100
     version: 1697123445
-    duration:
+    duration: 
     metadata: {}
     public_id: mn/dfs
     created_at: '2023-10-12T15:10:45Z'
@@ -352,7 +352,7 @@ client:
     format: png
     height: 4583
     version: 1697124193
-    duration:
+    duration: 
     metadata: {}
     public_id: mn/mhd
     created_at: '2023-10-12T15:23:13Z'
@@ -378,7 +378,7 @@ client:
     format: png
     height: 262
     version: 1697124313
-    duration:
+    duration: 
     metadata: []
     public_id: mn/smcp
     created_at: '2023-10-12T15:25:13Z'
@@ -404,7 +404,7 @@ client:
     format: png
     height: 268
     version: 1697125143
-    duration:
+    duration: 
     metadata: []
     public_id: mn/jll
     created_at: '2023-10-12T15:39:03Z'
@@ -430,7 +430,7 @@ client:
     format: png
     height: 1280
     version: 1697125359
-    duration:
+    duration: 
     metadata: {}
     public_id: mn/leica
     created_at: '2023-10-12T15:42:39Z'
@@ -610,7 +610,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195910
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-1
     created_at: '2023-10-13T11:18:30Z'
@@ -639,7 +639,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195909
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-2
     created_at: '2023-10-13T11:18:29Z'
@@ -668,7 +668,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195908
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-3
     created_at: '2023-10-13T11:18:28Z'
@@ -697,7 +697,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195909
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-4
     created_at: '2023-10-13T11:18:29Z'
@@ -726,7 +726,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195910
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-5
     created_at: '2023-10-13T11:18:30Z'
@@ -741,9 +741,9 @@ staff:
 - sys:
     id: 7ARcHPqKz17eFQsmblgPoO
     created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
     content_type_id: staff
-    revision: 1
+    revision: 7
   internal_name: Josepha Palas
   full_name: Josepha Palas
   avatar:
@@ -755,7 +755,7 @@ staff:
     format: jpg
     height: 600
     version: 1697195909
-    duration:
+    duration: 
     metadata: []
     public_id: mn/team/team-6
     created_at: '2023-10-13T11:18:29Z'
@@ -846,7 +846,7 @@ project:
     format: jpg
     height: 1200
     version: 1697436962
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/phpB31ZrS1692261065
     created_at: '2023-10-16T06:16:02Z'
@@ -873,7 +873,7 @@ project:
     format: jpg
     height: 1200
     version: 1697436957
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/phpB2DhBv1644912960
     created_at: '2023-10-16T06:15:57Z'
@@ -900,7 +900,7 @@ project:
     format: png
     height: 1200
     version: 1697436943
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php4gTh9x1644804504
     created_at: '2023-10-16T06:15:43Z'
@@ -927,7 +927,7 @@ project:
     format: png
     height: 1200
     version: 1697436955
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php81jnue1679307397
     created_at: '2023-10-16T06:15:55Z'
@@ -954,7 +954,7 @@ project:
     format: png
     height: 400
     version: 1697436955
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/phpAKvN3M1646385766
     created_at: '2023-10-16T06:15:55Z'
@@ -974,14 +974,14 @@ project:
   type: h5
   screenshot:
   - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436934/mn/project/php2bm4Wx1644917274.jpg
-    tags:
+    tags: 
     type: upload
     bytes: 372623
     width: 960
     format: jpg
     height: 800
     version: 1697436934
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php2bm4Wx1644917274
     created_at: '2023-10-16T06:15:34Z'
@@ -1001,14 +1001,14 @@ project:
   type: wechat
   screenshot:
   - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436932/mn/project/php2eKM0v1645155962.jpg
-    tags:
+    tags: 
     type: upload
     bytes: 630531
     width: 1730
     format: jpg
     height: 1200
     version: 1697436932
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php2eKM0v1645155962
     created_at: '2023-10-16T06:15:32Z'
@@ -1055,7 +1055,7 @@ news:
     format: jpg
     height: 1200
     version: 1697436962
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/phpB31ZrS1692261065
     created_at: '2023-10-16T06:16:02Z'
@@ -1069,9 +1069,9 @@ news:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
       content_type_id: staff
-      revision: 1
+      revision: 7
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1083,7 +1083,7 @@ news:
       format: jpg
       height: 600
       version: 1697195909
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-6
       created_at: '2023-10-13T11:18:29Z'
@@ -1124,7 +1124,7 @@ news:
     format: png
     height: 1200
     version: 1697436955
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php81jnue1679307397
     created_at: '2023-10-16T06:15:55Z'
@@ -1152,7 +1152,7 @@ news:
       format: jpg
       height: 600
       version: 1697195910
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-5
       created_at: '2023-10-13T11:18:30Z'
@@ -1190,7 +1190,7 @@ news:
     format: png
     height: 900
     version: 1697436949
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php7mhqn21671781614
     created_at: '2023-10-16T06:15:49Z'
@@ -1218,7 +1218,7 @@ news:
       format: jpg
       height: 600
       version: 1697195908
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-3
       created_at: '2023-10-13T11:18:28Z'
@@ -1258,7 +1258,7 @@ news:
     format: png
     height: 1200
     version: 1697436946
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php5ykCVa1664420330
     created_at: '2023-10-16T06:15:46Z'
@@ -1286,7 +1286,7 @@ news:
       format: jpg
       height: 600
       version: 1697195910
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-1
       created_at: '2023-10-13T11:18:30Z'
@@ -1324,7 +1324,7 @@ news:
     format: png
     height: 900
     version: 1697436946
-    duration:
+    duration: 
     metadata: []
     public_id: mn/project/php5v1uiR1673425590
     created_at: '2023-10-16T06:15:46Z'
@@ -1352,7 +1352,7 @@ news:
       format: jpg
       height: 600
       version: 1697195909
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-4
       created_at: '2023-10-13T11:18:29Z'
@@ -1378,9 +1378,9 @@ testimonial:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
       content_type_id: staff
-      revision: 1
+      revision: 7
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1392,7 +1392,7 @@ testimonial:
       format: jpg
       height: 600
       version: 1697195909
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-6
       created_at: '2023-10-13T11:18:29Z'
@@ -1434,7 +1434,7 @@ testimonial:
       format: jpg
       height: 600
       version: 1697195910
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-5
       created_at: '2023-10-13T11:18:30Z'
@@ -1475,7 +1475,7 @@ testimonial:
       format: jpg
       height: 600
       version: 1697195909
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-4
       created_at: '2023-10-13T11:18:29Z'
@@ -1516,7 +1516,7 @@ testimonial:
       format: jpg
       height: 600
       version: 1697195908
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-3
       created_at: '2023-10-13T11:18:28Z'
@@ -1557,7 +1557,7 @@ testimonial:
       format: jpg
       height: 600
       version: 1697195909
-      duration:
+      duration: 
       metadata: []
       public_id: mn/team/team-2
       created_at: '2023-10-13T11:18:29Z'
