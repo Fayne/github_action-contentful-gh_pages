@@ -31,8 +31,6 @@ jobs:
       # Fetch data and deployment
       - name: Commit contents updating
         run: |
-          git config --global user.name "Contentful"
-          git config --global user.email "contentful@gmail.com"
           git fetch origin
           git checkout develop
           git checkout .
