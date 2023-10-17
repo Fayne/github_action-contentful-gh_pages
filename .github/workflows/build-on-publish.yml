@@ -28,10 +28,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
 
-      - name: Fetch latest data
-        run: bundle exec jekyll contentful
-        
-      # Deployment
+      # Fetch data and deployment
       - name: Commit contents updating
         run: |
           git config --global user.name "Contentful"
@@ -42,6 +39,7 @@ jobs:
           git clean -df
           git branch -D master
           git checkout master
+          bundle exec jekyll contentful
           git add _data
           git commit -m ":+1: Update contents"
           git fetch origin
