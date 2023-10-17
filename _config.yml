@@ -12,4 +12,28 @@ contentful:
         client_options:                     # Optional
           api_url: 'cdn.contentful.com' # Defaults to 'api.contentful.com' which is Production
           max_include_resolution_depth: 5   # Optional - Defaults to 20, maximum amount of levels to resolve includes
-        
+
+name: MobileNowGroup
+description: This is a demo from MobileNowGroup
+keywords: MobileNowGroup demo
+
+about_us:
+  title: We’re product minded craftsmen, chosen by some of the largest brands worldwide for our rigour, substance, and credibility.
+  headline: "A team of 100 specialists: CX Consultants, Strategists, Technical Creatives, Researchers, UX and UI Designers, Developers, and Quality Analysts."
+  
+services: We provide guidance, assistance and direction to you at each stage of your mobilisation strategy with our wealth of mobile experience in planning, UX and UI design, development and launching projects.
+
+staff: We’re product minded craftsmen, chosen by some of the largest brands worldwide for our rigour, substance, and credibility.
+
+faq: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+
+testimonials: Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+
+project: The following are the projects we have launched, welcome to try and use
+
+news: Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit
+
+contact_us: "Please share some details in the simple form below. If you really don't like forms, of course email us at: <a href='mailto:BriefUs@mobilenowgroup.com'>BriefUs@mobilenowgroup.com</a>."
+address: No. 218 Xiang Yang South Road Building A, Room 503 Shanghai, China 200031
+tel: +86 156 1841 7258
+email: BriefUs@mobilenowgroup.com

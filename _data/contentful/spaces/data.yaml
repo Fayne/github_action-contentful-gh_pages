@@ -238,3 +238,1337 @@ product:
     revision: 1
   name: test11 (10)
   csku: cab
+- sys:
+    id: 6DJocEBeVYt8Sseh7Ay9bN
+    created_at: !ruby/object:DateTime 2023-10-12 11:51:57.925000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 11:51:57.925000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (11)
+  csku: cab
+  blog:
+    sys:
+      id: 2Uh998lKmFSx9CVZhfrI0b
+      created_at: !ruby/object:DateTime 2021-05-29 11:16:28.641000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-12 08:56:40.743000000 Z
+      content_type_id: blog
+      revision: 2
+    title: test
+    body: test
+    taggings:
+    - Hello
+    - World
+    test_base_value: test-adsfsdf
+    test: test-adsfsdf
+- sys:
+    id: 3Kb5g6adVyyhoVf27rpQLx
+    created_at: !ruby/object:DateTime 2023-10-12 11:57:33.036000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 11:57:33.036000000 Z
+    content_type_id: product
+    revision: 1
+  name: test11 (12)
+  csku: cab
+  blog:
+    sys:
+      id: 2Uh998lKmFSx9CVZhfrI0b
+      created_at: !ruby/object:DateTime 2021-05-29 11:16:28.641000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-12 08:56:40.743000000 Z
+      content_type_id: blog
+      revision: 2
+    title: test
+    body: test
+    taggings:
+    - Hello
+    - World
+    test_base_value: test-adsfsdf
+    test: test-adsfsdf
+client:
+- sys:
+    id: 1lNkFPDKktxfVyTT5SNAoX
+    created_at: !ruby/object:DateTime 2023-10-12 15:07:56.365000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 15:07:56.365000000 Z
+    content_type_id: client
+    revision: 1
+  internal_name: Sephora
+  name: Sephora
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697123252/mn/sephora.png
+    tags: []
+    type: upload
+    bytes: 2549
+    width: 337
+    format: png
+    height: 150
+    version: 1697123252
+    duration:
+    metadata: {}
+    public_id: mn/sephora
+    created_at: '2023-10-12T15:07:32Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697123252/mn/sephora.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697123252/mn/sephora.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697123252/mn/sephora.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 3VYOBd6viKx2ms1rVX4YVC
+    created_at: !ruby/object:DateTime 2023-10-12 15:10:56.262000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 15:10:56.262000000 Z
+    content_type_id: client
+    revision: 1
+  internal_name: DFS
+  name: DFS
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697123445/mn/dfs.png
+    tags: []
+    type: upload
+    bytes: 2775
+    width: 302
+    format: png
+    height: 100
+    version: 1697123445
+    duration:
+    metadata: {}
+    public_id: mn/dfs
+    created_at: '2023-10-12T15:10:45Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697123445/mn/dfs.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697123445/mn/dfs.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697123445/mn/dfs.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 4N2P4EIq1BUTaPHacb573X
+    created_at: !ruby/object:DateTime 2023-10-12 15:19:06.204000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 15:23:26.442000000 Z
+    content_type_id: client
+    revision: 2
+  internal_name: MHD
+  name: MHD
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697124193/mn/mhd.png
+    tags: []
+    type: upload
+    bytes: 230970
+    width: 5150
+    format: png
+    height: 4583
+    version: 1697124193
+    duration:
+    metadata: {}
+    public_id: mn/mhd
+    created_at: '2023-10-12T15:23:13Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697124193/mn/mhd.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697124193/mn/mhd.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697124193/mn/mhd.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 7kEiJsEnQ1seG61YHdBJVQ
+    created_at: !ruby/object:DateTime 2023-10-12 15:33:12.124000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 15:33:12.124000000 Z
+    content_type_id: client
+    revision: 1
+  internal_name: SMCP
+  name: SMCP
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697124313/mn/smcp.png
+    tags: []
+    type: upload
+    bytes: 9999
+    width: 840
+    format: png
+    height: 262
+    version: 1697124313
+    duration:
+    metadata: []
+    public_id: mn/smcp
+    created_at: '2023-10-12T15:25:13Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697124313/mn/smcp.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697124313/mn/smcp.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697124313/mn/smcp.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 6QB5bhe6MRrGF22CJAqsMa
+    created_at: !ruby/object:DateTime 2023-10-12 15:39:13.481000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 16:19:28.435000000 Z
+    content_type_id: client
+    revision: 2
+  internal_name: JLL
+  name: JLL
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125143/mn/jll.png
+    tags: []
+    type: upload
+    bytes: 25122
+    width: 600
+    format: png
+    height: 268
+    version: 1697125143
+    duration:
+    metadata: []
+    public_id: mn/jll
+    created_at: '2023-10-12T15:39:03Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125143/mn/jll.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697125143/mn/jll.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697125143/mn/jll.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 2MF9rVNY1WDpkf7lNYIpnL
+    created_at: !ruby/object:DateTime 2023-10-12 15:43:01.536000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 15:43:01.536000000 Z
+    content_type_id: client
+    revision: 1
+  internal_name: Leica
+  name: Leica
+  logo:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125359/mn/leica.png
+    tags: []
+    type: upload
+    bytes: 34496
+    width: 1280
+    format: png
+    height: 1280
+    version: 1697125359
+    duration:
+    metadata: {}
+    public_id: mn/leica
+    created_at: '2023-10-12T15:42:39Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125359/mn/leica.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697125359/mn/leica.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697125359/mn/leica.png
+    raw_transformation: f_webp/q_auto
+aboutUs:
+- sys:
+    id: 2SQNG1Wyeompgt4pC4j3dx
+    created_at: !ruby/object:DateTime 2023-10-12 17:11:57.560000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 17:11:57.560000000 Z
+    content_type_id: aboutUs
+    revision: 1
+  internal_name: STRATEGY, CONSULTING
+  title: STRATEGY, CONSULTING
+  description: |-
+    THOMAS
+    LIAM
+    JEREMIE
+    Y.J.
+    GARY
+    PIANO
+    XUANYU
+    PHILIPPE
+  icon_class: buildings
+- sys:
+    id: 3vKQCT2STpK3ltYptpGxKT
+    created_at: !ruby/object:DateTime 2023-10-12 17:13:15.714000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 17:13:15.714000000 Z
+    content_type_id: aboutUs
+    revision: 1
+  internal_name: CREATIVE
+  title: CREATIVE
+  description: |-
+    JASON
+    JEANETTE
+    TING
+    EMMA
+    LILY
+    ISABEL
+    CHANTE
+  icon_class: clipboard-pulse
+- sys:
+    id: 0QWOl6p9eDbwPZufEQnD3
+    created_at: !ruby/object:DateTime 2023-10-12 17:14:19.438000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 17:14:19.438000000 Z
+    content_type_id: aboutUs
+    revision: 1
+  internal_name: QUALITY ASSURANCE
+  title: QUALITY ASSURANCE
+  description: |-
+    BILL
+    ALLEN
+    KYRIE
+    LUNA
+    OLIVIA
+    WENDY
+    LINLI
+    JIALI
+    EVA
+  icon_class: command
+- sys:
+    id: 6zrgxwGSwx0MfseUPSggDI
+    created_at: !ruby/object:DateTime 2023-10-12 17:14:47.635000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-12 17:14:47.635000000 Z
+    content_type_id: aboutUs
+    revision: 1
+  internal_name: ADMINISTRATION
+  title: ADMINISTRATION
+  description: |-
+    CIARA
+    JANE
+    MEILIN
+    JAMES
+  icon_class: graph-up-arrow
+service:
+- sys:
+    id: 53MTnHYFtsY9cPkz3alsyp
+    created_at: !ruby/object:DateTime 2023-10-13 10:57:27.990000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 10:57:27.990000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: Consulting
+  title: Consulting
+  description: |-
+    - Market entry
+    - Human centred design
+    - Retail
+    - China setup
+    - Infrastructure planning
+    - Data and BI
+  icon_class: briefcase
+- sys:
+    id: 2tM1zlhygYi9g9Wp96XzhL
+    created_at: !ruby/object:DateTime 2023-10-13 10:58:28.241000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 10:58:28.241000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: UX Design
+  title: UX Design
+  description: |-
+    - Design objectives
+    - IA
+    - Wires & flows
+    - Documentation & specifications
+  icon_class: card-checklist
+- sys:
+    id: 5CBwj78ywdLdDjsQMNe4C6
+    created_at: !ruby/object:DateTime 2023-10-13 10:59:08.643000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 10:59:08.643000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: UI Design
+  title: UI Design
+  description: |-
+    - Visual identity guidelines
+    - UI identity guidelines
+    - Comprehensive layouts
+    - Documentation & specifications
+  icon_class: bar-chart
+- sys:
+    id: 5L73n5Zco9IKYe9iEZqP27
+    created_at: !ruby/object:DateTime 2023-10-13 10:59:56.641000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 10:59:56.641000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: Ecommerce
+  title: Ecommerce
+  description: |-
+    - Full custom
+    - Magento
+    - ShopEx
+    - Platform
+  icon_class: binoculars
+- sys:
+    id: 3HIYoO8JkRtZXBgfufIU4m
+    created_at: !ruby/object:DateTime 2023-10-13 11:00:29.200000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 11:00:29.200000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: Development & Build
+  title: Development & Build
+  description: |-
+    - Service layer and database engineering
+    - Front end engineering
+    - Deployment & rollout
+  icon_class: brightness-high
+- sys:
+    id: 6FIaFCAfHotZIPfBQgiFsw
+    created_at: !ruby/object:DateTime 2023-10-13 11:01:16.199000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 11:01:16.199000000 Z
+    content_type_id: service
+    revision: 1
+  internal_name: Operational
+  title: Operational
+  description: |-
+    - Continuous improvement process
+    - Monitoring & maintenance
+  icon_class: calendar4-week
+staff:
+- sys:
+    id: 2vrlFvAlcER0quCUtP8mgU
+    created_at: !ruby/object:DateTime 2023-10-13 21:41:16.300000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:41:16.300000000 Z
+    content_type_id: staff
+    revision: 1
+  internal_name: Walter White
+  full_name: Walter White
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-1.jpg
+    tags: []
+    type: upload
+    bytes: 64386
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195910
+    duration:
+    metadata: []
+    public_id: mn/team/team-1
+    created_at: '2023-10-13T11:18:30Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-1.jpg
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-1.jpg
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-1.jpg
+    raw_transformation: f_webp/q_auto
+  position: CEO
+  description: Aliquam iure quaerat voluptatem praesentium possimus unde laudantium
+    vel dolorum distinctio dire flow
+- sys:
+    id: 3nFuDQrz4tMvjObMqtB1fy
+    created_at: !ruby/object:DateTime 2023-10-13 21:42:40.423000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:42:59.381000000 Z
+    content_type_id: staff
+    revision: 2
+  internal_name: Sarah Jhonson
+  full_name: Sarah Jhonson
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-2.jpg
+    tags: []
+    type: upload
+    bytes: 34427
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195909
+    duration:
+    metadata: []
+    public_id: mn/team/team-2
+    created_at: '2023-10-13T11:18:29Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-2.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-2.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-2.jpg
+  position: PM
+  description: Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium
+    aut quod dolores exercitationem ut
+- sys:
+    id: 1vzhkMFd8E6KR4I2Cjcb0H
+    created_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+    content_type_id: staff
+    revision: 1
+  internal_name: William Anderson
+  full_name: William Anderson
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+    tags: []
+    type: upload
+    bytes: 25992
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195908
+    duration:
+    metadata: []
+    public_id: mn/team/team-3
+    created_at: '2023-10-13T11:18:28Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+  position: CTO
+  description: Illum minima ea autem doloremque ipsum quidem quas aspernatur modi
+    ut praesentium vel tque sed facilis at qui
+- sys:
+    id: 1okkTDYp33JVV92udD85Dj
+    created_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+    content_type_id: staff
+    revision: 1
+  internal_name: Amanda Jepson
+  full_name: Amanda Jepson
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+    tags: []
+    type: upload
+    bytes: 54623
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195909
+    duration:
+    metadata: []
+    public_id: mn/team/team-4
+    created_at: '2023-10-13T11:18:29Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+  position: CFO
+  description: Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate
+    sed et veniam quasi quam consectetur
+- sys:
+    id: 2tBc4RqOEsaNTaLNSd36q9
+    created_at: !ruby/object:DateTime 2023-10-13 21:47:43.293000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:47:59.775000000 Z
+    content_type_id: staff
+    revision: 2
+  internal_name: Brian Doe
+  full_name: Brian Doe
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+    tags: []
+    type: upload
+    bytes: 75354
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195910
+    duration:
+    metadata: []
+    public_id: mn/team/team-5
+    created_at: '2023-10-13T11:18:30Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+  position: Developer
+  description: Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam
+    sunt doloribus quia impedit laborum velit
+- sys:
+    id: 7ARcHPqKz17eFQsmblgPoO
+    created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+    content_type_id: staff
+    revision: 1
+  internal_name: Josepha Palas
+  full_name: Josepha Palas
+  avatar:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+    tags: []
+    type: upload
+    bytes: 63660
+    width: 600
+    format: jpg
+    height: 600
+    version: 1697195909
+    duration:
+    metadata: []
+    public_id: mn/team/team-6
+    created_at: '2023-10-13T11:18:29Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+  position: QA
+  description: Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum
+    earum et omnis fugit eligendi cupiditate vel
+faq:
+- sys:
+    id: 3AwwekNi3gO3ZUx6Iz0cEF
+    created_at: !ruby/object:DateTime 2023-10-16 05:11:19.418000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 05:11:19.418000000 Z
+    content_type_id: faq
+    revision: 1
+  internal_name: Non consectetur a erat nam at lectus urna duis?
+  title: Non consectetur a erat nam at lectus urna duis?
+  description: Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat
+    lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
+    rhoncus dolor purus non.
+- sys:
+    id: 3zQ6uYlhTJiyDyelunNfJz
+    created_at: !ruby/object:DateTime 2023-10-16 05:14:54.296000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 05:14:54.296000000 Z
+    content_type_id: faq
+    revision: 1
+  internal_name: Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+  title: Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+  description: Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi.
+    Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque
+    eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices
+    eros in cursus turpis massa tincidunt dui.
+- sys:
+    id: 6KJNvEjaUFMfm8C0nocs7K
+    created_at: !ruby/object:DateTime 2023-10-16 05:15:19.563000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 05:15:19.563000000 Z
+    content_type_id: faq
+    revision: 1
+  internal_name: Dolor sit amet consectetur adipiscing elit pellentesque?
+  title: Dolor sit amet consectetur adipiscing elit pellentesque?
+  description: Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis
+    orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet
+    nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis
+    convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+- sys:
+    id: 1ACqqCnrwUZSukO1X1oEpK
+    created_at: !ruby/object:DateTime 2023-10-16 05:15:49.108000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 05:15:49.108000000 Z
+    content_type_id: faq
+    revision: 1
+  internal_name: " Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?"
+  title: " Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?"
+  description: Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi.
+    Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque
+    eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices
+    eros in cursus turpis massa tincidunt dui.
+- sys:
+    id: 5GeGVZkk6rqK4rctVdrqXj
+    created_at: !ruby/object:DateTime 2023-10-16 05:16:24.010000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 05:16:24.010000000 Z
+    content_type_id: faq
+    revision: 1
+  internal_name: Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+  title: Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+  description: Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim
+    suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan.
+    Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis
+    cursus in
+project:
+- sys:
+    id: 1l2RtxYlPkTW0adoznwTuu
+    created_at: !ruby/object:DateTime 2023-10-16 06:28:37.578000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 06:28:37.578000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: HENNESSY LE CLUB
+  name: HENNESSY LE CLUB
+  type: wechat
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    tags: []
+    type: upload
+    bytes: 956690
+    width: 1730
+    format: jpg
+    height: 1200
+    version: 1697436962
+    duration:
+    metadata: []
+    public_id: mn/project/phpB31ZrS1692261065
+    created_at: '2023-10-16T06:16:02Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 6CfBeZYjzmShSuJRdyg23Z
+    created_at: !ruby/object:DateTime 2023-10-16 06:29:38.162000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 06:29:38.162000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: JLL
+  name: JLL
+  type: h5
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436957/mn/project/phpB2DhBv1644912960.jpg
+    tags: []
+    type: upload
+    bytes: 665164
+    width: 1730
+    format: jpg
+    height: 1200
+    version: 1697436957
+    duration:
+    metadata: []
+    public_id: mn/project/phpB2DhBv1644912960
+    created_at: '2023-10-16T06:15:57Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436957/mn/project/phpB2DhBv1644912960.jpg
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436957/mn/project/phpB2DhBv1644912960.jpg
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436957/mn/project/phpB2DhBv1644912960.jpg
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 4jps1U6HjtkrXLgwrc2D36
+    created_at: !ruby/object:DateTime 2023-10-16 06:31:01.465000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 06:31:01.465000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: DFS
+  name: DFS
+  type: h5
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436943/mn/project/php4gTh9x1644804504.png
+    tags: []
+    type: upload
+    bytes: 1767066
+    width: 1730
+    format: png
+    height: 1200
+    version: 1697436943
+    duration:
+    metadata: []
+    public_id: mn/project/php4gTh9x1644804504
+    created_at: '2023-10-16T06:15:43Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436943/mn/project/php4gTh9x1644804504.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436943/mn/project/php4gTh9x1644804504.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436943/mn/project/php4gTh9x1644804504.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 2LwVp8Ctgu6HKmLLW6Q9Wa
+    created_at: !ruby/object:DateTime 2023-10-16 08:09:57.858000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 08:09:57.858000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: Etech
+  name: Etech
+  type: app
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/php81jnue1679307397.png
+    tags: []
+    type: upload
+    bytes: 233402
+    width: 1730
+    format: png
+    height: 1200
+    version: 1697436955
+    duration:
+    metadata: []
+    public_id: mn/project/php81jnue1679307397
+    created_at: '2023-10-16T06:15:55Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/php81jnue1679307397.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/php81jnue1679307397.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/php81jnue1679307397.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 6KYBo2A6ETgzK5QjqfAnKG
+    created_at: !ruby/object:DateTime 2023-10-16 08:11:49.380000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 08:11:49.380000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: Sephora
+  name: Sephora
+  type: wechat
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/phpAKvN3M1646385766.png
+    tags: []
+    type: upload
+    bytes: 237457
+    width: 495
+    format: png
+    height: 400
+    version: 1697436955
+    duration:
+    metadata: []
+    public_id: mn/project/phpAKvN3M1646385766
+    created_at: '2023-10-16T06:15:55Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/phpAKvN3M1646385766.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/phpAKvN3M1646385766.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/phpAKvN3M1646385766.png
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: Gfeqbj47tecTCs7PpCZ45
+    created_at: !ruby/object:DateTime 2023-10-16 08:14:56.287000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 08:14:56.287000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: Leica Akademie
+  name: Leica Akademie
+  type: h5
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436934/mn/project/php2bm4Wx1644917274.jpg
+    tags:
+    type: upload
+    bytes: 372623
+    width: 960
+    format: jpg
+    height: 800
+    version: 1697436934
+    duration:
+    metadata: []
+    public_id: mn/project/php2bm4Wx1644917274
+    created_at: '2023-10-16T06:15:34Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436934/mn/project/php2bm4Wx1644917274.jpg
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436934/mn/project/php2bm4Wx1644917274.jpg
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436934/mn/project/php2bm4Wx1644917274.jpg
+    raw_transformation: f_webp/q_auto
+- sys:
+    id: 1MRnMZKNPPYdK6j91CwUYy
+    created_at: !ruby/object:DateTime 2023-10-16 08:16:31.871000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 08:16:31.871000000 Z
+    content_type_id: project
+    revision: 1
+  internal_name: Pure
+  name: Pure
+  type: wechat
+  screenshot:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436932/mn/project/php2eKM0v1645155962.jpg
+    tags:
+    type: upload
+    bytes: 630531
+    width: 1730
+    format: jpg
+    height: 1200
+    version: 1697436932
+    duration:
+    metadata: []
+    public_id: mn/project/php2eKM0v1645155962
+    created_at: '2023-10-16T06:15:32Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436932/mn/project/php2eKM0v1645155962.jpg
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436932/mn/project/php2eKM0v1645155962.jpg
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436932/mn/project/php2eKM0v1645155962.jpg
+    raw_transformation: f_webp/q_auto
+news:
+- sys:
+    id: eXfwJHDqOUnYZB8JtyQ0y
+    created_at: !ruby/object:DateTime 2023-10-16 09:38:22.582000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 09:38:22.582000000 Z
+    content_type_id: news
+    revision: 1
+  internal_name: LVMH launch Mini Program to showcase the Hennessy CRM UI Revamp &
+    DTC Mall
+  title: LVMH launch Mini Program to showcase the Hennessy CRM UI Revamp & DTC Mall
+  type: CRM
+  description: "Hennessy CRM MP, Le Club, meets users again with a brand new design
+    style, and will present its own shopping mall for users to explore.\n\n \n\nThe
+    Hennessy Le Club MP underwent a major transformation, adding multiple heavy weight
+    functions such as an online store, 4-tier membership system, and a points redemption
+    store.\n\n \n\nHennessy's products can be purchased directly from DTC Mall in
+    MP, providing users with a more complete and rich online experience.\n\n \n\nThis
+    new upgrade not only officially launched the Hennessy shopping Mall, but also
+    further improved the four levels of membership system. The DTC Mall has upgraded
+    its membership rights to provide users with an exclusive shopping experience,
+    including first order gifts, redemption of shopping points, and even new product
+    preemptive purchases.\n\n \n\nThe Hennessy DTC Mall presents users with two major
+    areas: Gift Selection and Fun Blended cocktails. Not only can customers customize
+    the Hennessy gift box with their own voice and text greeting cards for friends,
+    but also explore a special list of astrology and Chinese zodiac themed cocktail
+    recipes, guiding Hennessy enthusiasts to explore more tasting and gameplay of
+    cognac blended cocktails.\n\n \n\nThe MP, with its UI revamp and DTC mall launch,
+    was released in Mar 2023. These added enhancements will further expand the membership
+    exclusive service that integrates experience, interaction, and shopping."
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    tags: []
+    type: upload
+    bytes: 956690
+    width: 1730
+    format: jpg
+    height: 1200
+    version: 1697436962
+    duration:
+    metadata: []
+    public_id: mn/project/phpB31ZrS1692261065
+    created_at: '2023-10-16T06:16:02Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436962/mn/project/phpB31ZrS1692261065.jpg
+  url: https://www.mobilenowgroup.com/news/103
+  poster:
+    sys:
+      id: 7ARcHPqKz17eFQsmblgPoO
+      created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: Josepha Palas
+    full_name: Josepha Palas
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+      tags: []
+      type: upload
+      bytes: 63660
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195909
+      duration:
+      metadata: []
+      public_id: mn/team/team-6
+      created_at: '2023-10-13T11:18:29Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+    position: QA
+    description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
+      rerum earum et omnis fugit eligendi cupiditate vel
+- sys:
+    id: hANnGyyLbDPNb2Y6gnMbj
+    created_at: !ruby/object:DateTime 2023-10-16 09:41:06.678000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 09:41:06.678000000 Z
+    content_type_id: news
+    revision: 1
+  internal_name: Introducing SMCP membership Mini Programs
+  title: Introducing SMCP membership Mini Programs
+  type: CRM
+  description: "With the launch of their suite of improved membership Mini Programs,
+    SMCP customers can now view their profile, profile information as well as membership
+    tier, following the registration process.\n \n\nThis has significantly improved
+    the customer experience, for accessing this important information on WeChat.\n
+    \n\nThe respective designs for each of the Sandro, Maje and Claudie Pierlot MPs
+    are tailored to offer an intuitive membership profile display. Of equal importance,
+    the membership tier benefits information is also shared. This provides users with
+    an overview of their current benefits, as well as a sneak peak on what’s in store,
+    should they make it to the next level. \n \n\nThe enhanced memberships MPs are
+    also the next stage in establishing SMCP’s loyalty program and other digital services
+    on WeChat."
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/php81jnue1679307397.png
+    tags: []
+    type: upload
+    bytes: 233402
+    width: 1730
+    format: png
+    height: 1200
+    version: 1697436955
+    duration:
+    metadata: []
+    public_id: mn/project/php81jnue1679307397
+    created_at: '2023-10-16T06:15:55Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436955/mn/project/php81jnue1679307397.png
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/php81jnue1679307397.png
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436955/mn/project/php81jnue1679307397.png
+  url: https://www.mobilenowgroup.com/news/88
+  poster:
+    sys:
+      id: 2tBc4RqOEsaNTaLNSd36q9
+      created_at: !ruby/object:DateTime 2023-10-13 21:47:43.293000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:47:59.775000000 Z
+      content_type_id: staff
+      revision: 2
+    internal_name: Brian Doe
+    full_name: Brian Doe
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+      tags: []
+      type: upload
+      bytes: 75354
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195910
+      duration:
+      metadata: []
+      public_id: mn/team/team-5
+      created_at: '2023-10-13T11:18:30Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+    position: Developer
+    description: Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam
+      sunt doloribus quia impedit laborum velit
+- sys:
+    id: 3QDpEtHYmsnMmUmQQJS887
+    created_at: !ruby/object:DateTime 2023-10-16 09:43:01.688000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 09:43:01.688000000 Z
+    content_type_id: news
+    revision: 1
+  internal_name: Dermalogica focuses on CX, with a customised MP solution for Chinese
+    consumers
+  title: Dermalogica focuses on CX, with a customised MP solution for Chinese consumers
+  type: Design
+  description: "Having previously leveraged a templated solution for WeChat, professional
+    grade skin care provider Dermalogica opted to evolve their MP platform to a fully
+    customised interface.\n\n \n\nCommencing with an MVP, the user experience is kept
+    simple and straightforward.\n\n \n\nDermalogica’s story, since Jane Wurwand’s
+    founding in 1986 is shared with consumers, as well of presentation of the full
+    range of skin care solutions.\n\n \n\nPurchase can be made across the range, with
+    the challenges of cross border fulfillment all managed seamlessly behind the scenes."
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436949/mn/project/php7mhqn21671781614.png
+    tags: []
+    type: upload
+    bytes: 654890
+    width: 1302
+    format: png
+    height: 900
+    version: 1697436949
+    duration:
+    metadata: []
+    public_id: mn/project/php7mhqn21671781614
+    created_at: '2023-10-16T06:15:49Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436949/mn/project/php7mhqn21671781614.png
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436949/mn/project/php7mhqn21671781614.png
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436949/mn/project/php7mhqn21671781614.png
+  url: https://www.mobilenowgroup.com/news/91
+  poster:
+    sys:
+      id: 1vzhkMFd8E6KR4I2Cjcb0H
+      created_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: William Anderson
+    full_name: William Anderson
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+      tags: []
+      type: upload
+      bytes: 25992
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195908
+      duration:
+      metadata: []
+      public_id: mn/team/team-3
+      created_at: '2023-10-13T11:18:28Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+    position: CTO
+    description: Illum minima ea autem doloremque ipsum quidem quas aspernatur modi
+      ut praesentium vel tque sed facilis at qui
+- sys:
+    id: 1wJbHoVlKmIGjIalsHVSC9
+    created_at: !ruby/object:DateTime 2023-10-16 09:44:43.662000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 09:44:43.662000000 Z
+    content_type_id: news
+    revision: 1
+  internal_name: MHD showcase curated range across their portfolio
+  title: MHD showcase curated range across their portfolio
+  type: Design
+  description: "Le Voyage Exceptionnel has been created by MHD to provide discerning
+    consumers access to carefully prepared selections from their entire range. MHD’s
+    connoisseurs have meticulously reviewed each range from Krug to Armand de Brignac,
+    Ao Yun to Dom Perignon, to bring their favourite selections to the Mini Program
+    (MP). \n\n \n\nThese selections are typically a limited run, that will only be
+    available for a short period of time. An introduction to each brand is provided,
+    as well as detail on any products currently available.\n\n \n\nIn parallel, a
+    release calendar provides insight into products that will soon be made available.
+    Finally a standard Ecommerce journey follows, for any products that users are
+    lucky enough to grab."
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436946/mn/project/php5ykCVa1664420330.png
+    tags: []
+    type: upload
+    bytes: 1102698
+    width: 1440
+    format: png
+    height: 1200
+    version: 1697436946
+    duration:
+    metadata: []
+    public_id: mn/project/php5ykCVa1664420330
+    created_at: '2023-10-16T06:15:46Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436946/mn/project/php5ykCVa1664420330.png
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436946/mn/project/php5ykCVa1664420330.png
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436946/mn/project/php5ykCVa1664420330.png
+  url: https://www.mobilenowgroup.com/news/87
+  poster:
+    sys:
+      id: 2vrlFvAlcER0quCUtP8mgU
+      created_at: !ruby/object:DateTime 2023-10-13 21:41:16.300000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:41:16.300000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: Walter White
+    full_name: Walter White
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-1.jpg
+      tags: []
+      type: upload
+      bytes: 64386
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195910
+      duration:
+      metadata: []
+      public_id: mn/team/team-1
+      created_at: '2023-10-13T11:18:30Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-1.jpg
+      resource_type: image
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-1.jpg
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-1.jpg
+      raw_transformation: f_webp/q_auto
+    position: CEO
+    description: Aliquam iure quaerat voluptatem praesentium possimus unde laudantium
+      vel dolorum distinctio dire flow
+- sys:
+    id: 7FRDGtbEdmbAhioP5bjI24
+    created_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
+    content_type_id: news
+    revision: 1
+  internal_name: Generali revamps specialist automative and equine insurance websites
+  title: Generali revamps specialist automative and equine insurance websites
+  type: Web
+  description: "Global insurance and asset management provider Generali has launched
+    new websites for several of it’s specialist insurance services.\n\n \n\nWith tailor
+    made, category specific policies for horse and performance car owners, the individual
+    sites provide a consistent approach in guiding users through Generali’s respective
+    product offerings.\n\n \n\nThis covers an introduction to each brand; Equi, Gentlemen
+    Drivers and Flat 6, the range of products available for each, plus the ability
+    to generate an online quote.\n\n \n\nDelivered in partnership with Eurus Consulting,
+    each site brings a refreshing and clean approach to specialist insurance."
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436946/mn/project/php5v1uiR1673425590.png
+    tags: []
+    type: upload
+    bytes: 815577
+    width: 1298
+    format: png
+    height: 900
+    version: 1697436946
+    duration:
+    metadata: []
+    public_id: mn/project/php5v1uiR1673425590
+    created_at: '2023-10-16T06:15:46Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697436946/mn/project/php5v1uiR1673425590.png
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697436946/mn/project/php5v1uiR1673425590.png
+    resource_type: image
+    raw_transformation: f_webp/q_auto
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697436946/mn/project/php5v1uiR1673425590.png
+  url: https://www.mobilenowgroup.com/news/97
+  poster:
+    sys:
+      id: 1okkTDYp33JVV92udD85Dj
+      created_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: Amanda Jepson
+    full_name: Amanda Jepson
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+      tags: []
+      type: upload
+      bytes: 54623
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195909
+      duration:
+      metadata: []
+      public_id: mn/team/team-4
+      created_at: '2023-10-13T11:18:29Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+    position: CFO
+    description: Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate
+      sed et veniam quasi quam consectetur
+testimonial:
+- sys:
+    id: 4GmXpRpaW6W5XDqBTjhtUn
+    created_at: !ruby/object:DateTime 2023-10-17 09:22:02.202000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 09:22:02.202000000 Z
+    content_type_id: testimonial
+    revision: 1
+  internal_name: Proin iaculis purus consequat sem cure digni ssim donec porttitora
+    entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh
+    et. Maecen aliquam, risus at semper.
+  staff:
+    sys:
+      id: 7ARcHPqKz17eFQsmblgPoO
+      created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: Josepha Palas
+    full_name: Josepha Palas
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+      tags: []
+      type: upload
+      bytes: 63660
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195909
+      duration:
+      metadata: []
+      public_id: mn/team/team-6
+      created_at: '2023-10-13T11:18:29Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-6.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-6.jpg
+    position: QA
+    description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
+      rerum earum et omnis fugit eligendi cupiditate vel
+  words: Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
+    suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen
+    aliquam, risus at semper.
+  star: 4
+- sys:
+    id: 4ZnMtszaGhHkd4ijZfVNR2
+    created_at: !ruby/object:DateTime 2023-10-17 09:22:41.727000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 09:22:41.727000000 Z
+    content_type_id: testimonial
+    revision: 1
+  internal_name: Dramatically mesh cutting-edge relationships vis-a-vis holistic e-services.
+    Distinctively optimize ethical interfaces.
+  staff:
+    sys:
+      id: 2tBc4RqOEsaNTaLNSd36q9
+      created_at: !ruby/object:DateTime 2023-10-13 21:47:43.293000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:47:59.775000000 Z
+      content_type_id: staff
+      revision: 2
+    internal_name: Brian Doe
+    full_name: Brian Doe
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+      tags: []
+      type: upload
+      bytes: 75354
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195910
+      duration:
+      metadata: []
+      public_id: mn/team/team-5
+      created_at: '2023-10-13T11:18:30Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195910/mn/team/team-5.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195910/mn/team/team-5.jpg
+    position: Developer
+    description: Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam
+      sunt doloribus quia impedit laborum velit
+  words: Dramatically mesh cutting-edge relationships vis-a-vis holistic e-services.
+    Distinctively optimize ethical interfaces.
+  star: 5
+- sys:
+    id: HzRPh01tu9i2O57npIkGG
+    created_at: !ruby/object:DateTime 2023-10-17 09:23:01.839000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 09:23:01.839000000 Z
+    content_type_id: testimonial
+    revision: 1
+  internal_name: Progressively communicate holistic scenarios whereas open-source
+    web-readiness. Interactively impact state of.
+  staff:
+    sys:
+      id: 1okkTDYp33JVV92udD85Dj
+      created_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:46:56.647000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: Amanda Jepson
+    full_name: Amanda Jepson
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+      tags: []
+      type: upload
+      bytes: 54623
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195909
+      duration:
+      metadata: []
+      public_id: mn/team/team-4
+      created_at: '2023-10-13T11:18:29Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-4.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-4.jpg
+    position: CFO
+    description: Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate
+      sed et veniam quasi quam consectetur
+  words: Progressively communicate holistic scenarios whereas open-source web-readiness.
+    Interactively impact state of.
+  star: 3
+- sys:
+    id: 73To82QNsBLaZDqWUmZsS5
+    created_at: !ruby/object:DateTime 2023-10-17 09:23:22.627000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 09:23:22.627000000 Z
+    content_type_id: testimonial
+    revision: 1
+  internal_name: Efficiently e-enable efficient data whereas optimal benefits. Continually
+    orchestrate visionary convergence.
+  staff:
+    sys:
+      id: 1vzhkMFd8E6KR4I2Cjcb0H
+      created_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:45:54.044000000 Z
+      content_type_id: staff
+      revision: 1
+    internal_name: William Anderson
+    full_name: William Anderson
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+      tags: []
+      type: upload
+      bytes: 25992
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195908
+      duration:
+      metadata: []
+      public_id: mn/team/team-3
+      created_at: '2023-10-13T11:18:28Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195908/mn/team/team-3.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195908/mn/team/team-3.jpg
+    position: CTO
+    description: Illum minima ea autem doloremque ipsum quidem quas aspernatur modi
+      ut praesentium vel tque sed facilis at qui
+  words: Efficiently e-enable efficient data whereas optimal benefits. Continually
+    orchestrate visionary convergence.
+  star: 5
+- sys:
+    id: zJUIbudFmsH2BjzuQj8F3
+    created_at: !ruby/object:DateTime 2023-10-17 09:23:43.266000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 09:23:43.266000000 Z
+    content_type_id: testimonial
+    revision: 1
+  internal_name: Credibly innovate resource sucking experiences whereas 24/7 metrics.
+    Proactively enable focused.
+  staff:
+    sys:
+      id: 3nFuDQrz4tMvjObMqtB1fy
+      created_at: !ruby/object:DateTime 2023-10-13 21:42:40.423000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-13 21:42:59.381000000 Z
+      content_type_id: staff
+      revision: 2
+    internal_name: Sarah Jhonson
+    full_name: Sarah Jhonson
+    avatar:
+    - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-2.jpg
+      tags: []
+      type: upload
+      bytes: 34427
+      width: 600
+      format: jpg
+      height: 600
+      version: 1697195909
+      duration:
+      metadata: []
+      public_id: mn/team/team-2
+      created_at: '2023-10-13T11:18:29Z'
+      secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697195909/mn/team/team-2.jpg
+      original_url: http://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-2.jpg
+      resource_type: image
+      raw_transformation: f_webp/q_auto
+      original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697195909/mn/team/team-2.jpg
+    position: PM
+    description: Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium
+      aut quod dolores exercitationem ut
+  words: Credibly innovate resource sucking experiences whereas 24/7 metrics. Proactively
+    enable focused.
+  star: 4
