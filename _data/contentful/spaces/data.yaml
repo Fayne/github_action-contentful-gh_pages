@@ -772,13 +772,11 @@ faq:
 - sys:
     id: 3AwwekNi3gO3ZUx6Iz0cEF
     created_at: !ruby/object:DateTime 2023-10-16 05:11:19.418000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-17 15:05:31.196000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 15:07:33.465000000 Z
     content_type_id: faq
-    revision: 2
-  internal_name: Authoritatively facilitate premium technologies with leveraged interfaces.
-    Credibly.
+    revision: 3
+  internal_name: Authoritatively facilitate premium technologies with leveraged interfaces
   title: Authoritatively facilitate premium technologies with leveraged interfaces.
-    Credibly.
   description: Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat
     lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
     rhoncus dolor purus non.
