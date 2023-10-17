@@ -741,9 +741,9 @@ staff:
 - sys:
     id: 7ARcHPqKz17eFQsmblgPoO
     created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
     content_type_id: staff
-    revision: 9
+    revision: 10
   internal_name: Josepha Palas
   full_name: Josepha Palas
   avatar:
@@ -767,6 +767,7 @@ staff:
   position: QA
   description: Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum
     earum et omnis fugit eligendi cupiditate vel
+  twitter: ab
 faq:
 - sys:
     id: 3AwwekNi3gO3ZUx6Iz0cEF
@@ -1069,9 +1070,9 @@ news:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
       content_type_id: staff
-      revision: 9
+      revision: 10
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1095,6 +1096,7 @@ news:
     position: QA
     description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
       rerum earum et omnis fugit eligendi cupiditate vel
+    twitter: ab
 - sys:
     id: hANnGyyLbDPNb2Y6gnMbj
     created_at: !ruby/object:DateTime 2023-10-16 09:41:06.678000000 Z
@@ -1378,9 +1380,9 @@ testimonial:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
       content_type_id: staff
-      revision: 9
+      revision: 10
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1404,6 +1406,7 @@ testimonial:
     position: QA
     description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
       rerum earum et omnis fugit eligendi cupiditate vel
+    twitter: ab
   words: Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
     suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen
     aliquam, risus at semper.
