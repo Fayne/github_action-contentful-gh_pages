@@ -36,6 +36,12 @@ jobs:
         run: |
           git config --global user.name "Contentful"
           git config --global user.email "contentful@gmail.com"
+          git checkout develop
+          git checkout .
+          git clean -df
+          git branch -D master
+          git fetch origin
+          git checkout master
           git add _data
           git commit -m ":+1: Update contents"
           git fetch origin
