@@ -741,9 +741,9 @@ staff:
 - sys:
     id: 7ARcHPqKz17eFQsmblgPoO
     created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
     content_type_id: staff
-    revision: 7
+    revision: 9
   internal_name: Josepha Palas
   full_name: Josepha Palas
   avatar:
@@ -1069,9 +1069,9 @@ news:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
       content_type_id: staff
-      revision: 7
+      revision: 9
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1378,9 +1378,9 @@ testimonial:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:46:01.925000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
       content_type_id: staff
-      revision: 7
+      revision: 9
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
