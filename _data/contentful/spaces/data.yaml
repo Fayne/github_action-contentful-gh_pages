@@ -1303,12 +1303,12 @@ news:
 - sys:
     id: 7FRDGtbEdmbAhioP5bjI24
     created_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 07:31:07.277000000 Z
     content_type_id: news
-    revision: 1
+    revision: 2
   internal_name: Generali revamps specialist automative and equine insurance websites
   title: Generali revamps specialist automative and equine insurance websites
-  type: Web
+  type: Design
   description: "Global insurance and asset management provider Generali has launched
     new websites for several of it’s specialist insurance services.\n\n \n\nWith tailor
     made, category specific policies for horse and performance car owners, the individual
