@@ -1575,3 +1575,20 @@ testimonial:
   words: Credibly innovate resource sucking experiences whereas 24/7 metrics. Proactively
     enable focused.
   star: 4
+animalType:
+- sys:
+    id: 2TWXCoFJ2dIL6rbBD0Oyn2
+    created_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+    content_type_id: animalType
+    revision: 1
+  internal_name: Cat
+  name: Cat
+- sys:
+    id: 1cuZvPW1uhTOdpyqDFFhiO
+    created_at: !ruby/object:DateTime 2023-10-19 01:48:14.448000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 01:48:14.448000000 Z
+    content_type_id: animalType
+    revision: 1
+  internal_name: Dog
+  name: Dog
