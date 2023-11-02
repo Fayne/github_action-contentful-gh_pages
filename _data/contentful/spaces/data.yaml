@@ -741,9 +741,9 @@ staff:
 - sys:
     id: 7ARcHPqKz17eFQsmblgPoO
     created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
     content_type_id: staff
-    revision: 9
+    revision: 10
   internal_name: Josepha Palas
   full_name: Josepha Palas
   avatar:
@@ -767,18 +767,19 @@ staff:
   position: QA
   description: Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum
     earum et omnis fugit eligendi cupiditate vel
+  twitter: ab
 faq:
 - sys:
     id: 3AwwekNi3gO3ZUx6Iz0cEF
     created_at: !ruby/object:DateTime 2023-10-16 05:11:19.418000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-16 05:11:19.418000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-17 15:15:51.190000000 Z
     content_type_id: faq
-    revision: 1
-  internal_name: Non consectetur a erat nam at lectus urna duis?
-  title: Non consectetur a erat nam at lectus urna duis?
+    revision: 4
+  internal_name: Authoritatively facilitate premium technologies with leveraged interfaces
+  title: Authoritatively facilitate premium technologies with leveraged interfaces.
   description: Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat
     lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor
-    rhoncus dolor purus non.
+    rhoncus dolor puru.
 - sys:
     id: 3zQ6uYlhTJiyDyelunNfJz
     created_at: !ruby/object:DateTime 2023-10-16 05:14:54.296000000 Z
@@ -1069,9 +1070,9 @@ news:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
       content_type_id: staff
-      revision: 9
+      revision: 10
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1095,6 +1096,7 @@ news:
     position: QA
     description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
       rerum earum et omnis fugit eligendi cupiditate vel
+    twitter: ab
 - sys:
     id: hANnGyyLbDPNb2Y6gnMbj
     created_at: !ruby/object:DateTime 2023-10-16 09:41:06.678000000 Z
@@ -1301,12 +1303,12 @@ news:
 - sys:
     id: 7FRDGtbEdmbAhioP5bjI24
     created_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
-    updated_at: !ruby/object:DateTime 2023-10-16 09:47:56.037000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 07:31:07.277000000 Z
     content_type_id: news
-    revision: 1
+    revision: 2
   internal_name: Generali revamps specialist automative and equine insurance websites
   title: Generali revamps specialist automative and equine insurance websites
-  type: Web
+  type: Design
   description: "Global insurance and asset management provider Generali has launched
     new websites for several of it’s specialist insurance services.\n\n \n\nWith tailor
     made, category specific policies for horse and performance car owners, the individual
@@ -1378,9 +1380,9 @@ testimonial:
     sys:
       id: 7ARcHPqKz17eFQsmblgPoO
       created_at: !ruby/object:DateTime 2023-10-13 21:48:50.908000000 Z
-      updated_at: !ruby/object:DateTime 2023-10-17 14:55:04.059000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-17 15:01:22.918000000 Z
       content_type_id: staff
-      revision: 9
+      revision: 10
     internal_name: Josepha Palas
     full_name: Josepha Palas
     avatar:
@@ -1404,6 +1406,7 @@ testimonial:
     position: QA
     description: Sint sint eveniet explicabo amet consequatur nesciunt error enim
       rerum earum et omnis fugit eligendi cupiditate vel
+    twitter: ab
   words: Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
     suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen
     aliquam, risus at semper.
@@ -1572,3 +1575,58 @@ testimonial:
   words: Credibly innovate resource sucking experiences whereas 24/7 metrics. Proactively
     enable focused.
   star: 4
+animalType:
+- sys:
+    id: 2TWXCoFJ2dIL6rbBD0Oyn2
+    created_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+    content_type_id: animalType
+    revision: 1
+  internal_name: Cat
+  name: Cat
+- sys:
+    id: 1cuZvPW1uhTOdpyqDFFhiO
+    created_at: !ruby/object:DateTime 2023-10-19 01:48:14.448000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 01:48:14.448000000 Z
+    content_type_id: animalType
+    revision: 1
+  internal_name: Dog
+  name: Dog
+animal:
+- sys:
+    id: 78EOWZl1lzrsmr0tM9A1Y1
+    created_at: !ruby/object:DateTime 2023-10-19 01:52:04.880000000 Z
+    updated_at: !ruby/object:DateTime 2023-10-19 02:11:50.705000000 Z
+    content_type_id: animal
+    revision: 3
+  internal_name: Cat 1
+  name: Cat 1
+  slug: cat-1
+  url: https://www.baidu.com
+  category:
+    sys:
+      id: 2TWXCoFJ2dIL6rbBD0Oyn2
+      created_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+      updated_at: !ruby/object:DateTime 2023-10-19 01:47:54.713000000 Z
+      content_type_id: animalType
+      revision: 1
+    internal_name: Cat
+    name: Cat
+  image:
+  - url: http://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125359/mn/leica.png
+    tags: []
+    type: upload
+    bytes: 34496
+    width: 1280
+    format: png
+    height: 1280
+    version: 1697125359
+    duration: 
+    metadata: []
+    public_id: mn/leica
+    created_at: '2023-10-12T15:42:39Z'
+    secure_url: https://res.cloudinary.com/fayne/image/upload/f_webp/q_auto/v1697125359/mn/leica.png
+    resource_type: image
+    original_url: http://res.cloudinary.com/fayne/image/upload/v1697125359/mn/leica.png
+    original_secure_url: https://res.cloudinary.com/fayne/image/upload/v1697125359/mn/leica.png
+    raw_transformation: f_webp/q_auto
