@@ -30,7 +30,7 @@ layout: default
                 {% for client in site.data.contentful.spaces.data.client %}
                 <div class="col-xl-2 col-md-3 col-6 client-logo">
                     {% for logo in client.logo limit:1 %}
-                    <img src="{{ logo.url }}" class="img-fluid" alt="{{ client.name }}">
+                    <img src="{{ logo.secure_url }}" class="img-fluid" alt="{{ client.name }}">
                     {% endfor %}
                 </div><!-- End Client Item -->
                 {% endfor %}
@@ -186,7 +186,7 @@ layout: default
 
                     <div class="col-lg-4 col-md-6 project-item isotope-item filter-{{ project.type }}">
                         {% for image in project.screenshot limit:1 %}
-                        <img src="{{ image.url }}" class="img-fluid" alt="{{ project.name }}">
+                        <img src="{{ image.secure_url }}" class="img-fluid" alt="{{ project.name }}">
 
                         <div class="project-info">
                             <h4></h4>
@@ -265,7 +265,7 @@ layout: default
                 <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
                     <div class="member-img">
                         {% for avatar in staff.avatar limit:1 %}
-                        <img src="{{ avatar.url }}" class="img-fluid" alt="{{ staff.full_name }}">
+                        <img src="{{ avatar.secure_url }}" class="img-fluid" alt="{{ staff.full_name }}">
                         {% endfor %}
                         <div class="social">
                             <a href="#"><i class="bi bi-twitter"></i></a>
@@ -348,7 +348,7 @@ layout: default
                                 <div class="testimonial-item">
                                     <div class="d-flex">
                                         {% for avatar in testimonial.staff.avatar limit:1 %}
-                                        <img src="{{ avatar.url }}" class="testimonial-img flex-shrink-0" alt="">
+                                        <img src="{{ avatar.secure_url }}" class="testimonial-img flex-shrink-0" alt="">
                                         {% endfor %}
                                         <div>
                                             <h3>{{ testimonial.staff.name }}</h3>
@@ -407,7 +407,7 @@ layout: default
 
                         <div class="post-img">
                             {% for image in news.image limit:1 %}
-                            <img src="{{ image.url }}" alt="" class="img-fluid">
+                            <img src="{{ image.secure_url }}" alt="" class="img-fluid">
                             {% endfor %}
                         </div>
 
@@ -419,7 +419,7 @@ layout: default
 
                         <div class="d-flex align-items-center">
                             {% for avatar in news.poster.avatar limit:1 %}
-                            <img src="{{ avatar.url }}" alt="{{ news.poster.full_name }}" class="img-fluid post-author-img flex-shrink-0">
+                            <img src="{{ avatar.secure_url }}" alt="{{ news.poster.full_name }}" class="img-fluid post-author-img flex-shrink-0">
                             {% endfor %}
                             <div class="post-meta">
                                 <p class="post-author">{{ news.poster.full_name }}</p>
